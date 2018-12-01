@@ -1,5 +1,5 @@
 # MyBookList
-记录读过的那些书
+记录阅读足迹
 ## 2018 summer - now
 * [山茶文具店](https://book.douban.com/subject/28656614/)⭐️⭐️⭐️
 * [恶意](https://book.douban.com/subject/3646172/) ⭐️⭐️⭐️⭐️⭐️
