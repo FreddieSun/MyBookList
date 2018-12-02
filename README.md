@@ -1,6 +1,6 @@
 # MyBookList
 记录阅读足迹
-## 2018 summer - now
+## 2018
 * [山茶文具店](https://book.douban.com/subject/28656614/)⭐️⭐️⭐️
 * [恶意](https://book.douban.com/subject/3646172/) ⭐️⭐️⭐️⭐️⭐️
 * [大型网站技术架构](https://book.douban.com/subject/25723064/) ⭐️⭐️⭐️⭐️
