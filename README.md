@@ -11,8 +11,10 @@
 * [杀死一只知更鸟](https://book.douban.com/subject/6781808/)⭐️⭐️⭐️
 * [罗生门](https://book.douban.com/subject/3136271/)⭐️⭐️⭐️⭐️⭐️
 * [精通Spring4.X企业应用开发实战](https://book.douban.com/subject/26952826/)⭐️⭐️⭐️⭐️
-* [Java并发编程实战](https://book.douban.com/subject/10484692/) (ing)
+* [Java并发编程实战](https://book.douban.com/subject/10484692/)(ing)
 * [Getting Things Done](https://book.douban.com/subject/1958547/)(ing) 
+* [人类群星闪耀时](https://book.douban.com/subject/6538430/)(ing)
+
 
 
 
