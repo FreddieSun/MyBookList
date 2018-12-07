@@ -14,7 +14,7 @@
 * [Java并发编程实战](https://book.douban.com/subject/10484692/)(ing)
 * [Getting Things Done](https://book.douban.com/subject/1958547/)(ing) 
 * [人类群星闪耀时](https://book.douban.com/subject/6538430/)(ing)
-
+* [常识](https://book.douban.com/subject/3344676/)(ing)
 
 
 
