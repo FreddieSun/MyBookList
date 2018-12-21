@@ -12,6 +12,7 @@
 * [罗生门](https://book.douban.com/subject/3136271/)⭐️⭐️⭐️⭐️⭐️
 * [精通Spring4.X企业应用开发实战](https://book.douban.com/subject/26952826/)⭐️⭐️⭐️⭐️
 * [人类群星闪耀时](https://book.douban.com/subject/6538430/)⭐️⭐️⭐️ 
+* [断舍离](https://book.douban.com/subject/24749465/)（看着有气功大师步道的感觉。。。）⭐️⭐️ 
 * [Java并发编程实战](https://book.douban.com/subject/10484692/)(ing)
 * [Getting Things Done](https://book.douban.com/subject/1958547/)(ing) 
 * [常识](https://book.douban.com/subject/3344676/)(ing)
