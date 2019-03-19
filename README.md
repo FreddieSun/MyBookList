@@ -5,6 +5,7 @@
 * [未来简史](https://book.douban.com/subject/26943161/)(ing)
 * [东方快车谋杀案](https://book.douban.com/subject/1827374/)⭐️⭐️⭐️⭐️ 一天看完，看的版本翻译译制片味道太重了扣一分
 * [常识](https://book.douban.com/subject/3344676/)⭐️⭐️⭐️⭐️⭐️
+* [弱传播](https://book.douban.com/subject/30383755/)⭐️⭐️⭐️
 
 
 
