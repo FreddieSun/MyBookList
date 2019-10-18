@@ -8,7 +8,7 @@
 * [弱传播 -- 邹振东](https://book.douban.com/subject/30383755/)⭐️⭐️⭐️
 * [三体 III(二刷) -- 刘慈欣](https://book.douban.com/subject/5363767/)⭐️⭐️⭐️⭐️⭐️
 * [穷爸爸富爸爸 -- 罗伯特・T・清崎](https://book.douban.com/subject/1033778/)⭐️⭐️⭐️⭐️
-
+* [银河帝国-基地 -- 阿西莫夫](https://book.douban.com/subject/1258490/)⭐️⭐️⭐️⭐️⭐️
 
 
 
