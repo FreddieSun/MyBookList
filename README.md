@@ -7,6 +7,8 @@
 * [常识 -- 梁文道](https://book.douban.com/subject/3344676/)⭐️⭐️⭐️⭐️⭐️
 * [弱传播 -- 邹振东](https://book.douban.com/subject/30383755/)⭐️⭐️⭐️
 * [三体 III(二刷) -- 刘慈欣](https://book.douban.com/subject/5363767/)⭐️⭐️⭐️⭐️⭐️
+* [穷爸爸富爸爸 -- 罗伯特・T・清崎](https://book.douban.com/subject/1033778/)⭐️⭐️⭐️⭐️
+
 
 
 
